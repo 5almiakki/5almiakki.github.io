@@ -52,7 +52,7 @@ plainwhite:
 #header_pages:
 # - about.md
 
-# Build settings
+# Build settings (local: plainwhite, remote: minima)
 theme: plainwhite
 
 plugins:

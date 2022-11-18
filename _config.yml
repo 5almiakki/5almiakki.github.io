@@ -53,8 +53,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
+theme: minima
 
 plugins:
   - jekyll-seo-tag

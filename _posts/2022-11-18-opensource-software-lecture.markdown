@@ -4,7 +4,10 @@ title:  "221118 OSS lecture"
 date:   2022-11-18 10:35:00 +0900
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+1. 사이트 생성
+2. 테마 적용
+3. 포스트 작성
+4. 프로파일 이미지 변경
 
 ```javascript
 const Razorpay = require('razorpay');
